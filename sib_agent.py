@@ -6,7 +6,7 @@ from langchain.agents import initialize_agent
 from langchain.agents import Tool
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-from utils import duck_search, csv_agent
+from utils import duck_search
 from langchain.memory import ConversationBufferWindowMemory,ReadOnlySharedMemory
 from utils import vectara_search
 import openai
