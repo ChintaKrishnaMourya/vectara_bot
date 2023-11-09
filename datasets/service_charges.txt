@@ -1,0 +1,29 @@
+Charges for Debit card Usage at other Bank ATMs revised with effect from 01/01/2022 is as follows.
+Category : Revised charges (Excluding GST)
+Domestic Financial transactions : Rs. 21
+Domestic Non – financial transactions : Rs. 11
+International Financial transactions : Rs. 150
+International non – financial transactions : Rs. 25
+Loan Processing Charges : For Loans up to and including Rs. 0.25lac No processing fees
+For Loans above Rs. 0.25lac, 1.00 % of loan amount
+Upfront fee : 1.00%
+Rates applicable for Pre - payment / Pre - closure of loans and other credit facilities
+Particulars : Pre - payment Penalty/ Pre - Closure Charges
+Term Loans and other credit facilities (OD/CC/PC/BP/DC/FBP) of MSEs up to Rs. 50.00 lacs : NIL
+Term loans to non-individuals (other than MSE loans up to Rs.50.00 lacs) : Up-to Rs.1.00 Crore, 4 % and Above Rs.1.00 Crore, 3 %
+Term loans to individuals : Up-to Rs.1.00 Crore, 4 % and Above Rs.1.00 Crore, 3 %
+Term Loans and other credit facilities (OD/CC/PC/BP/DC/FBP) of MSEs above Rs. 50.00 lacs : Up-to Rs.1.00 Crore, 4 % and Above Rs.1.00 Crore, 3 %
+Loans/Credit Facilities with Floating Rate of Interest
+Particulars : Pre - payment Penalty/ Pre - Closure Charges
+Term Loans and other credit facilities (OD/CC/PC/BP/DC/FBP) of MSEs : NIL
+Term loans to individuals for purposes other than business : NIL
+UBP/UBD : NIL
+Term loans to individuals for business purposes : Up-to Rs.1.00 Crore 4% and Above Rs.1.00 Crore 3%
+Term loans to non-individuals other than MSEs : Up-to Rs.1.00 Crore 4% and Above Rs.1.00 Crore 3%
+Operative Limits (OD/CC/PC/BP/DC/FBP) other than MSEs : Up-to Rs.1.00 Crore 4% and Above Rs.1.00 Crore 3%
+No due Certificate : NIL
+Solvency Certificate : Up to Rs 1.00 lac : Rs.500.00, Above Rs 1.00 lac up-to Rs 10.00 lac : Rs 1000.00, Above Rs 10.00 lac up-to Rs 25.00 lac : Rs 2000.00, Above Rs 25.00 lac up-to Rs 50.00 lac : Rs 3000.00, Above Rs 50.00 lac up-to Rs 100.00 lac: Rs.4000.00, Above Rs 100.00 lac up-to Rs 500.00 lac:  Rs.5000.00, Above Rs 500.00 lac: Rs.10000.00
+Charges for late payment of EMI Penal : Additional Interest at 2%
+Charges for changing from fixed to floating rates of interest : Option once exercised cannot be changed
+Charges for changing from float to fixed rates of interest : Option once exercised cannot be changed
+

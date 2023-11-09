@@ -1,0 +1,21 @@
+Date,Transaction Description,Amount,Balance
+2023-01-01,Opening Balance,10000,10000
+2023-01-05,ATM Withdrawal,-2000,8000
+2023-01-10,Salary Deposit,15000,23000
+2023-01-15,Online Purchase,-500,22500
+2023-01-20,Utility Bill Payment,-1000,21500
+2023-02-01,Interest Credit,200,21700
+2023-02-05,ATM Withdrawal,-2500,19200
+2023-02-10,Online Purchase,-800,18400
+2023-02-15,Transfer to Friend,-1000,17400
+2023-03-01,Interest Credit,210,17610
+2023-03-05,ATM Withdrawal,-3000,14610
+2023-03-10,Salary Deposit,16000,30610
+2023-03-15,Online Purchase,-750,29860
+2023-03-20,Utility Bill Payment,-1200,28660
+2023-04-01,Interest Credit,220,28880
+2023-04-05,ATM Withdrawal,-3500,25380
+2023-04-10,Online Purchase,-600,24780
+2023-04-15,Transfer to Family,-2000,22780
+2023-04-20,ATM Withdrawal,-1000,21780
+2023-04-30,Closing Balance,21780,21780

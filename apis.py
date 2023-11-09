@@ -1,0 +1,6 @@
+openai_key = "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"
+
+VECTARA_CUSTOMER_ID = '3559332523'
+VECTARA_CORPUS_ID = '3'
+VECTARA_API_KEY = 'zqt_1Ccaq4p5DVQrY-bAhogdZW16UITXTeyiTmyvVQ'
+

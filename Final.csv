@@ -1,0 +1,502 @@
+Date,Transaction Description,Amount,Balance
+2023-01-01,ATM Withdrawal,1039,1135712
+2023-01-01,ATM Withdrawal,49,462587
+2023-01-01,Transfer to Friend,862,2078782
+2023-01-02,Online Purchase,1200,1756573
+2023-01-02,Utility Bill Payment,1736,1188358
+2023-01-03,Transfer to Family,3308,571544
+2023-01-03,Interest Credit,33,1198179
+2023-01-03,Transfer to Friend,516,107334
+2023-01-04,Transfer to Friend,879,2309138
+2023-01-04,Salary Deposit,50000,933144
+2023-01-05,Interest Credit,17,923217
+2023-01-06,Transfer to Family,4539,706041
+2023-01-06,Online Purchase,4652,166636
+2023-01-06,Online Purchase,4511,1718923
+2023-01-07,Online Purchase,1331,2574141
+2023-01-08,Interest Credit,20,1119494
+2023-01-09,Online Purchase,1352,537503
+2023-01-11,Online Purchase,2086,509966
+2023-01-11,Online Purchase,3100,916746
+2023-01-13,Utility Bill Payment,592,579440
+2023-01-14,Transfer to Friend,556,162704
+2023-01-14,Transfer to Friend,688,1138156
+2023-01-15,Transfer to Family,2331,1127566
+2023-01-15,Interest Credit,9,957250
+2023-01-15,Transfer to Friend,508,1782339
+2023-01-15,Utility Bill Payment,1925,1119363
+2023-01-16,Transfer to Family,1106,1115019
+2023-01-17,Interest Credit,18,2709918
+2023-01-17,ATM Withdrawal,805,1913749
+2023-01-18,Salary Deposit,50000,173400
+2023-01-18,ATM Withdrawal,1616,2498520
+2023-01-20,Transfer to Family,3343,1096214
+2023-01-20,Transfer to Family,1100,153412
+2023-01-20,Interest Credit,22,750889
+2023-01-20,Interest Credit,19,933163
+2023-01-21,Utility Bill Payment,1234,2222183
+2023-01-22,Salary Deposit,50000,2500136
+2023-01-23,Online Purchase,3933,1051528
+2023-01-24,Transfer to Family,3828,1132517
+2023-01-24,Transfer to Friend,892,1692250
+2023-01-25,Online Purchase,1741,1752403
+2023-01-25,Transfer to Friend,508,749209
+2023-01-25,Salary Deposit,50000,1006669
+2023-01-27,Utility Bill Payment,1610,1515596
+2023-01-28,Online Purchase,1208,1005461
+2023-01-28,Online Purchase,3339,2191883
+2023-01-29,ATM Withdrawal,986,919834
+2023-01-30,Utility Bill Payment,1617,1957940
+2023-01-31,ATM Withdrawal,482,1091582
+2023-02-02,ATM Withdrawal,2738,163260
+2023-02-02,Online Purchase,2658,1106590
+2023-02-03,Online Purchase,3072,2224186
+2023-02-03,Transfer to Family,1648,1117846
+2023-02-04,Transfer to Friend,747,1088844
+2023-02-05,Transfer to Family,3476,1530669
+2023-02-05,Online Purchase,1424,1116422
+2023-02-05,Salary Deposit,50000,1238388
+2023-02-06,ATM Withdrawal,1807,1617766
+2023-02-08,ATM Withdrawal,2783,507183
+2023-02-08,Transfer to Family,4728,1725650
+2023-02-09,ATM Withdrawal,400,2092991
+2023-02-09,Utility Bill Payment,979,577331
+2023-02-11,Utility Bill Payment,1642,500182
+2023-02-11,Utility Bill Payment,1607,1198146
+2023-02-11,Utility Bill Payment,1235,2313979
+2023-02-12,ATM Withdrawal,2484,1126703
+2023-02-12,Transfer to Family,3155,136871
+2023-02-13,Salary Deposit,50000,2718066
+2023-02-13,Transfer to Friend,626,157399
+2023-02-14,Utility Bill Payment,1262,1507233
+2023-02-15,Transfer to Friend,574,1126138
+2023-02-15,Online Purchase,4098,338411
+2023-02-16,ATM Withdrawal,1522,883127
+2023-02-16,Opening Balance,10000,10000
+2023-02-16,Utility Bill Payment,889,2580382
+2023-02-17,Online Purchase,2986,1914554
+2023-02-17,Transfer to Family,4115,1111169
+2023-02-17,Salary Deposit,50000,1620333
+2023-02-17,Interest Credit,17,883144
+2023-02-18,Transfer to Family,3347,1739695
+2023-02-19,Online Purchase,2124,1944941
+2023-02-19,Transfer to Friend,590,2191342
+2023-02-20,ATM Withdrawal,746,1494004
+2023-02-21,Salary Deposit,50000,1144397
+2023-02-21,Transfer to Friend,740,1830024
+2023-02-22,ATM Withdrawal,919,1497390
+2023-02-22,Interest Credit,37,713749
+2023-02-25,Utility Bill Payment,1555,496552
+2023-02-25,Interest Credit,11,1756612
+2023-02-26,Utility Bill Payment,1992,1539996
+2023-02-28,Utility Bill Payment,927,1654714
+2023-03-03,Transfer to Friend,874,464550
+2023-03-03,Transfer to Family,3180,1101036
+2023-03-03,Utility Bill Payment,1817,1094397
+2023-03-04,Interest Credit,39,157438
+2023-03-04,Transfer to Friend,642,1125632
+2023-03-04,Utility Bill Payment,1172,749717
+2023-03-05,Transfer to Friend,615,1743042
+2023-03-06,Online Purchase,2678,493874
+2023-03-06,Transfer to Friend,842,1616924
+2023-03-06,Interest Credit,44,1698191
+2023-03-07,ATM Withdrawal,1793,1129187
+2023-03-07,Online Purchase,2216,1723434
+2023-03-07,Utility Bill Payment,1914,462636
+2023-03-07,Utility Bill Payment,1499,1089591
+2023-03-09,Salary Deposit,50000,582952
+2023-03-09,Utility Bill Payment,1742,2153648
+2023-03-11,Transfer to Family,2739,2116113
+2023-03-12,Online Purchase,2217,1112802
+2023-03-13,Transfer to Friend,611,1095832
+2023-03-14,Salary Deposit,50000,2322183
+2023-03-14,Interest Credit,44,1517206
+2023-03-15,Salary Deposit,50000,1474457
+2023-03-15,Transfer to Friend,523,1091090
+2023-03-15,Salary Deposit,50000,1703113
+2023-03-16,Transfer to Family,4080,1117138
+2023-03-17,Salary Deposit,50000,1377613
+2023-03-17,Utility Bill Payment,1644,2668066
+2023-03-19,Transfer to Friend,638,165998
+2023-03-19,Interest Credit,50,1749685
+2023-03-20,Transfer to Family,2761,2197584
+2023-03-20,Salary Deposit,50000,2044941
+2023-03-20,Utility Bill Payment,949,1201717
+2023-03-21,Online Purchase,2657,1512939
+2023-03-22,Online Purchase,4414,1121218
+2023-03-23,Online Purchase,3808,2186761
+2023-03-24,Transfer to Family,3308,2118852
+2023-03-25,Utility Bill Payment,1537,1521152
+2023-03-27,Interest Credit,39,700828
+2023-03-28,Transfer to Family,4003,1948370
+2023-03-29,Online Purchase,1094,2315214
+2023-03-29,Salary Deposit,50000,2122160
+2023-03-31,Salary Deposit,50000,1203750
+2023-03-31,Transfer to Family,4072,1231542
+2023-04-01,Transfer to Family,2655,2581271
+2023-04-02,Interest Credit,8,1083758
+2023-04-02,Transfer to Family,2273,1375369
+2023-04-02,Salary Deposit,50000,1279851
+2023-04-02,ATM Withdrawal,2215,1911534
+2023-04-02,Interest Credit,26,1524639
+2023-04-02,Interest Credit,28,1756601
+2023-04-03,Online Purchase,1917,424591
+2023-04-03,Online Purchase,3566,417179
+2023-04-04,ATM Withdrawal,1029,1541988
+2023-04-04,ATM Withdrawal,470,1524169
+2023-04-04,Utility Bill Payment,1755,415424
+2023-04-05,Transfer to Family,3040,428457
+2023-04-07,Interest Credit,20,1099557
+2023-04-08,Salary Deposit,50000,1138844
+2023-04-08,Utility Bill Payment,924,1158746
+2023-04-08,Online Purchase,4677,2703622
+2023-04-09,Transfer to Friend,740,107850
+2023-04-10,Utility Bill Payment,1836,343320
+2023-04-10,Online Purchase,4996,1153750
+2023-04-10,Transfer to Family,3648,2086013
+2023-04-10,Interest Credit,8,2716851
+2023-04-12,Transfer to Family,1925,711824
+2023-04-14,ATM Withdrawal,1539,143770
+2023-04-15,Salary Deposit,50000,1787732
+2023-04-15,Interest Credit,50,1693229
+2023-04-17,Online Purchase,4223,1534145
+2023-04-17,Interest Credit,8,145696
+2023-04-20,Transfer to Family,3347,1467162
+2023-04-20,Transfer to Family,4679,158025
+2023-04-21,Interest Credit,48,1117186
+2023-04-21,Transfer to Family,4255,2182551
+2023-04-22,Online Purchase,3282,1867540
+2023-04-22,Interest Credit,45,2186806
+2023-04-22,Transfer to Friend,841,172559
+2023-04-23,ATM Withdrawal,1486,1748199
+2023-04-23,ATM Withdrawal,691,1190898
+2023-04-23,Utility Bill Payment,1242,1094590
+2023-04-24,Transfer to Friend,804,1190094
+2023-04-26,Transfer to Friend,535,1109248
+2023-04-27,Online Purchase,2517,1126274
+2023-04-27,ATM Withdrawal,1742,1196437
+2023-04-27,Transfer to Family,1068,123400
+2023-04-28,Transfer to Family,2778,203326
+2023-04-28,Interest Credit,42,2155390
+2023-04-29,ATM Withdrawal,520,1738664
+2023-04-30,Salary Deposit,50000,2201583
+2023-05-01,Salary Deposit,50000,465424
+2023-05-02,Salary Deposit,50000,799209
+2023-05-02,Salary Deposit,50000,891821
+2023-05-02,Interest Credit,9,1126712
+2023-05-03,Salary Deposit,50000,667696
+2023-05-04,Transfer to Friend,763,1130980
+2023-05-05,ATM Withdrawal,2116,703925
+2023-05-05,Interest Credit,5,1948375
+2023-05-06,Transfer to Family,4593,1096443
+2023-05-06,Salary Deposit,50000,849209
+2023-05-10,Transfer to Friend,811,342509
+2023-05-11,Utility Bill Payment,1552,135319
+2023-05-11,Interest Credit,34,534109
+2023-05-12,ATM Withdrawal,2312,105022
+2023-05-13,Interest Credit,30,1959530
+2023-05-13,ATM Withdrawal,373,431497
+2023-05-14,Interest Credit,21,2572197
+2023-05-14,ATM Withdrawal,492,957965
+2023-05-14,Transfer to Friend,854,2308284
+2023-05-18,Transfer to Friend,643,251858
+2023-05-19,ATM Withdrawal,2702,1685236
+2023-05-21,Transfer to Friend,511,1739184
+2023-05-21,Salary Deposit,50000,2272183
+2023-05-22,Utility Bill Payment,1407,1124366
+2023-05-23,Transfer to Family,4332,1086489
+2023-05-23,Transfer to Friend,961,506222
+2023-05-24,Online Purchase,1036,2227258
+2023-05-24,Interest Credit,6,2200345
+2023-05-24,Transfer to Friend,702,2091614
+2023-05-25,Transfer to Friend,943,1503322
+2023-05-26,Salary Deposit,50000,2536488
+2023-05-27,Utility Bill Payment,759,957206
+2023-05-29,Transfer to Friend,644,1137512
+2023-05-30,Transfer to Friend,510,711314
+2023-05-30,Online Purchase,2720,2491170
+2023-06-01,Salary Deposit,50000,958457
+2023-06-02,Transfer to Family,1482,884632
+2023-06-02,Online Purchase,3019,1109783
+2023-06-02,Transfer to Family,4630,2493890
+2023-06-03,Interest Credit,15,1653113
+2023-06-03,Utility Bill Payment,1171,663712
+2023-06-04,Online Purchase,4603,844507
+2023-06-04,Online Purchase,3962,2310017
+2023-06-05,ATM Withdrawal,387,145309
+2023-06-06,Utility Bill Payment,1983,1097938
+2023-06-06,Interest Credit,45,1086534
+2023-06-08,ATM Withdrawal,1109,842615
+2023-06-09,Transfer to Family,1935,1528734
+2023-06-09,Salary Deposit,50000,713712
+2023-06-10,ATM Withdrawal,408,2714028
+2023-06-10,Transfer to Friend,773,2190569
+2023-06-10,Transfer to Friend,794,841821
+2023-06-11,Transfer to Friend,742,1502580
+2023-06-13,Transfer to Family,1953,2089661
+2023-06-13,Transfer to Family,3930,297978
+2023-06-13,ATM Withdrawal,501,1115921
+2023-06-13,ATM Withdrawal,99,849110
+2023-06-14,ATM Withdrawal,1000,130147
+2023-06-14,Transfer to Family,4461,2081552
+2023-06-14,Transfer to Family,2835,132492
+2023-06-14,Salary Deposit,50000,108590
+2023-06-15,Salary Deposit,50000,2583926
+2023-06-16,Transfer to Friend,760,1498309
+2023-06-16,Transfer to Friend,620,2111426
+2023-06-17,Interest Credit,48,1278182
+2023-06-17,ATM Withdrawal,2237,1716686
+2023-06-17,Interest Credit,40,1278222
+2023-06-18,Online Purchase,3988,126159
+2023-06-19,Utility Bill Payment,1717,1278134
+2023-06-20,Online Purchase,2320,1870822
+2023-06-21,Transfer to Friend,563,58558
+2023-06-21,Interest Credit,29,1377642
+2023-06-22,Utility Bill Payment,1084,1202666
+2023-06-22,Utility Bill Payment,801,1131716
+2023-06-22,Utility Bill Payment,541,1121288
+2023-06-22,Transfer to Friend,730,148629
+2023-06-22,ATM Withdrawal,756,2354572
+2023-06-24,Utility Bill Payment,1947,1099921
+2023-06-26,Transfer to Friend,609,1277613
+2023-06-27,Interest Credit,15,923232
+2023-06-28,Utility Bill Payment,1294,1138807
+2023-06-28,Utility Bill Payment,700,1093890
+2023-06-28,Transfer to Friend,651,1092030
+2023-06-29,ATM Withdrawal,1890,1081926
+2023-06-30,Interest Credit,8,135327
+2023-07-01,Online Purchase,4410,1093528
+2023-07-01,Online Purchase,1796,2534692
+2023-07-01,Transfer to Family,3511,1499069
+2023-07-03,Salary Deposit,50000,1917540
+2023-07-03,Utility Bill Payment,1232,492642
+2023-07-03,Transfer to Family,3879,1783853
+2023-07-04,Salary Deposit,50000,1055461
+2023-07-05,Utility Bill Payment,605,2094336
+2023-07-06,ATM Withdrawal,168,1090821
+2023-07-06,Transfer to Family,1315,171244
+2023-07-06,Transfer to Family,2262,889559
+2023-07-06,Utility Bill Payment,1960,1878064
+2023-07-07,ATM Withdrawal,2328,1689922
+2023-07-08,ATM Withdrawal,1424,908457
+2023-07-09,Transfer to Friend,568,1611757
+2023-07-09,Transfer to Family,4147,2072160
+2023-07-09,Utility Bill Payment,1949,426508
+2023-07-09,ATM Withdrawal,1045,2077737
+2023-07-09,Salary Deposit,50000,2228294
+2023-07-10,Transfer to Family,1233,2716843
+2023-07-10,Salary Deposit,50000,1544004
+2023-07-10,Interest Credit,32,58590
+2023-07-10,Salary Deposit,50000,2450136
+2023-07-11,Interest Credit,27,1470509
+2023-07-11,ATM Withdrawal,1736,1875713
+2023-07-12,ATM Withdrawal,1023,2112046
+2023-07-14,Transfer to Friend,526,2712011
+2023-07-15,Transfer to Family,4341,1192096
+2023-07-17,Interest Credit,20,140026
+2023-07-19,Online Purchase,2784,1083750
+2023-07-19,Interest Credit,8,1716694
+2023-07-19,ATM Withdrawal,858,431870
+2023-07-19,Online Purchase,4851,1709540
+2023-07-19,Salary Deposit,50000,253326
+2023-07-21,Salary Deposit,50000,2094941
+2023-07-21,Interest Credit,30,1188388
+2023-07-23,ATM Withdrawal,2847,334642
+2023-07-23,Interest Credit,12,919846
+2023-07-23,Interest Credit,38,534147
+2023-07-24,ATM Withdrawal,2362,2195222
+2023-07-26,Salary Deposit,50000,2355328
+2023-07-26,Interest Credit,21,931929
+2023-07-28,Utility Bill Payment,593,2105915
+2023-07-30,Salary Deposit,50000,512587
+2023-07-30,ATM Withdrawal,2491,1133221
+2023-07-31,Utility Bill Payment,1255,931908
+2023-08-01,Online Purchase,3208,420745
+2023-08-01,ATM Withdrawal,2675,1510264
+2023-08-01,Transfer to Friend,825,252501
+2023-08-01,Salary Deposit,50000,750867
+2023-08-02,Transfer to Friend,945,2093391
+2023-08-03,Transfer to Family,4296,1140101
+2023-08-05,ATM Withdrawal,2640,1494750
+2023-08-05,Transfer to Family,4910,2575472
+2023-08-07,Transfer to Friend,699,152713
+2023-08-08,Online Purchase,2065,2151583
+2023-08-08,Interest Credit,44,171288
+2023-08-09,Utility Bill Payment,1480,1522689
+2023-08-10,Online Purchase,4892,1119474
+2023-08-11,Transfer to Friend,583,512052
+2023-08-12,Utility Bill Payment,1647,1693179
+2023-08-13,Transfer to Friend,673,1132548
+2023-08-13,Transfer to Friend,682,2200901
+2023-08-14,ATM Withdrawal,1779,2489391
+2023-08-15,Online Purchase,2727,2319456
+2023-08-15,Salary Deposit,50000,2155348
+2023-08-15,Transfer to Family,2415,2714436
+2023-08-17,Salary Deposit,50000,1425369
+2023-08-19,Transfer to Friend,769,2223417
+2023-08-21,Transfer to Friend,668,1952335
+2023-08-22,Online Purchase,3044,2113069
+2023-08-23,Interest Credit,49,2489440
+2023-08-25,ATM Withdrawal,597,295156
+2023-08-25,Online Purchase,4121,1524613
+2023-08-25,ATM Withdrawal,2029,1079897
+2023-08-27,ATM Withdrawal,1195,532952
+2023-08-27,Transfer to Friend,510,104512
+2023-08-28,Transfer to Family,4598,1106571
+2023-08-28,Transfer to Family,1006,1782847
+2023-08-28,Transfer to Family,1767,1757773
+2023-08-29,Utility Bill Payment,581,956669
+2023-08-29,Salary Deposit,50000,432728
+2023-08-30,ATM Withdrawal,2303,1714391
+2023-08-31,Interest Credit,49,2191932
+2023-08-31,Online Purchase,4257,2178294
+2023-09-01,Interest Credit,27,1959557
+2023-09-01,Salary Deposit,50000,1327613
+2023-09-01,Utility Bill Payment,1964,1199753
+2023-09-02,Transfer to Family,2026,1099537
+2023-09-03,Transfer to Friend,760,1619573
+2023-09-03,Transfer to Friend,759,1655641
+2023-09-04,ATM Withdrawal,1691,124468
+2023-09-04,Salary Deposit,50000,301908
+2023-09-07,Salary Deposit,50000,2404572
+2023-09-08,Online Purchase,4374,909881
+2023-09-09,Transfer to Friend,993,1956947
+2023-09-10,Salary Deposit,50000,1656400
+2023-09-12,Online Purchase,1434,1236954
+2023-09-12,Online Purchase,2571,1873142
+2023-09-12,Transfer to Friend,887,295753
+2023-09-13,Transfer to Family,3458,1112463
+2023-09-13,Transfer to Family,4079,1115284
+2023-09-13,Transfer to Family,4966,1698147
+2023-09-14,Utility Bill Payment,819,1570333
+2023-09-14,Salary Deposit,50000,345156
+2023-09-16,Transfer to Family,1793,1125773
+2023-09-16,Utility Bill Payment,847,1092681
+2023-09-16,Online Purchase,2821,1159670
+2023-09-16,ATM Withdrawal,1612,2572529
+2023-09-17,Transfer to Friend,621,1136345
+2023-09-17,ATM Withdrawal,2075,498107
+2023-09-18,Transfer to Family,2034,1909500
+2023-09-19,Online Purchase,3848,567696
+2023-09-20,Salary Deposit,50000,1517162
+2023-09-20,ATM Withdrawal,2195,2317261
+2023-09-22,Salary Deposit,50000,542642
+2023-09-23,Salary Deposit,50000,1735236
+2023-09-23,Online Purchase,3404,1694787
+2023-09-25,Transfer to Friend,687,423904
+2023-09-27,ATM Withdrawal,2813,664883
+2023-09-27,Transfer to Family,2111,2709900
+2023-09-27,Interest Credit,50,251908
+2023-09-28,Interest Credit,17,884649
+2023-09-28,Transfer to Friend,734,710580
+2023-09-28,Online Purchase,3757,1128791
+2023-09-29,Online Purchase,4599,1612325
+2023-09-29,Transfer to Friend,773,2708299
+2023-09-29,ATM Withdrawal,1340,1235614
+2023-09-29,Online Purchase,4398,501824
+2023-09-30,Online Purchase,2901,1090989
+2023-09-30,Utility Bill Payment,1890,1750513
+2023-10-01,Transfer to Family,3674,927331
+2023-10-02,Utility Bill Payment,615,1877449
+2023-10-02,Interest Credit,28,1162491
+2023-10-02,Transfer to Family,1310,1947065
+2023-10-02,Transfer to Friend,766,2533926
+2023-10-02,Salary Deposit,50000,154512
+2023-10-03,Salary Deposit,50000,59121
+2023-10-03,Transfer to Family,4131,923200
+2023-10-03,Online Purchase,4542,1743657
+2023-10-03,Transfer to Friend,567,2105348
+2023-10-03,Transfer to Friend,704,2713324
+2023-10-03,Salary Deposit,50000,382728
+2023-10-05,Salary Deposit,50000,1162463
+2023-10-06,Transfer to Family,3975,1470482
+2023-10-07,Transfer to Friend,924,931005
+2023-10-07,Salary Deposit,50000,1759540
+2023-10-07,Online Purchase,1984,1687938
+2023-10-09,ATM Withdrawal,1769,1508495
+2023-10-10,Online Purchase,3944,1953003
+2023-10-11,Online Purchase,3384,149359
+2023-10-11,Salary Deposit,50000,2619710
+2023-10-12,Transfer to Friend,562,2200339
+2023-10-14,Salary Deposit,50000,207438
+2023-10-14,Transfer to Friend,799,2712537
+2023-10-14,Salary Deposit,50000,1994941
+2023-10-14,Online Purchase,4006,1607751
+2023-10-15,Interest Credit,38,2077775
+2023-10-15,Transfer to Family,3787,538855
+2023-10-15,Salary Deposit,50000,1101563
+2023-10-16,Salary Deposit,50000,1959500
+2023-10-16,Interest Credit,39,1694826
+2023-10-17,Utility Bill Payment,1758,914255
+2023-10-19,Interest Credit,10,2718076
+2023-10-19,Utility Bill Payment,987,1543017
+2023-10-19,Interest Credit,35,957241
+2023-10-20,ATM Withdrawal,1000,2316261
+2023-10-20,Transfer to Family,4918,2106508
+2023-10-21,Salary Deposit,50000,2669710
+2023-10-22,Interest Credit,13,1083816
+2023-10-24,Interest Credit,38,1754144
+2023-10-25,Utility Bill Payment,1095,1116125
+2023-10-25,Online Purchase,4703,1101868
+2023-10-25,Interest Credit,31,1091613
+2023-10-25,Interest Credit,34,1117220
+2023-10-26,Transfer to Friend,912,1424457
+2023-10-26,Utility Bill Payment,1616,1653098
+2023-10-28,Interest Credit,27,1131743
+2023-10-28,Salary Deposit,50000,1880024
+2023-10-28,ATM Withdrawal,1338,296640
+2023-10-28,Interest Credit,45,1083803
+2023-10-29,Online Purchase,4858,1730378
+2023-10-30,Salary Deposit,50000,1571152
+2023-10-30,Interest Credit,38,1952373
+2023-10-30,Transfer to Friend,846,2709072
+2023-10-30,Interest Credit,35,1051563
+2023-10-30,Online Purchase,2956,2305328
+2023-11-01,Utility Bill Payment,1575,1780764
+2023-11-01,Utility Bill Payment,932,1737732
+2023-11-01,Online Purchase,4436,2400136
+2023-11-01,Transfer to Family,2952,2486488
+2023-11-01,Transfer to Family,1351,1606400
+2023-11-01,Transfer to Friend,507,1191589
+2023-11-01,Utility Bill Payment,1628,1538368
+2023-11-01,Salary Deposit,50000,617696
+2023-11-01,Interest Credit,30,152743
+2023-11-01,Interest Credit,48,512635
+2023-11-01,Online Purchase,3764,140006
+2023-11-01,Transfer to Family,2941,145688
+2023-11-01,Interest Credit,9,844516
+2023-11-01,Utility Bill Payment,879,9121
+2023-11-02,ATM Withdrawal,353,2572176
+2023-11-02,Transfer to Friend,922,337489
+2023-11-02,ATM Withdrawal,2920,580032
+2023-11-02,Transfer to Family,1345,131147
+2023-11-02,Utility Bill Payment,1841,1136966
+2023-11-02,Transfer to Family,4309,1121829
+2023-11-02,Interest Credit,34,1092064
+2023-11-02,ATM Withdrawal,792,843724
+2023-11-02,ATM Withdrawal,1914,332728
+2023-11-02,Salary Deposit,50000,1129897
+2023-11-03,ATM Withdrawal,2412,920820
+2023-11-03,Transfer to Friend,761,1136751
+2023-11-03,Interest Credit,39,700867
+2023-11-03,ATM Withdrawal,2479,574852
+2023-11-03,Interest Credit,47,2316308
+2023-11-03,Online Purchase,3428,534075
+2023-11-03,Utility Bill Payment,1468,2076307
+2023-11-03,Transfer to Friend,878,1749635
+2023-11-03,Utility Bill Payment,1908,2079644
+2023-11-03,Transfer to Family,2487,2569710
+2023-11-03,Transfer to Family,2506,1754106
+2023-11-03,ATM Withdrawal,87,1693142
+2023-11-03,Transfer to Friend,733,916013
+2023-11-03,Transfer to Family,2968,1504265
+2023-11-04,Online Purchase,2374,1104216
+2023-11-04,Interest Credit,49,423953
+2023-11-04,Interest Credit,12,2713336
+2023-11-04,Utility Bill Payment,1334,206104
+2023-11-04,Salary Deposit,50000,1830764
+2023-11-04,Online Purchase,3445,886114
+2023-11-04,Transfer to Friend,675,2092316
+2023-11-04,Online Purchase,1130,578310
+2023-11-04,Online Purchase,3136,700789
+2023-11-04,Transfer to Family,1691,1229851
