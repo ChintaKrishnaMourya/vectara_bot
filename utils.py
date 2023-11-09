@@ -2,6 +2,7 @@ from langchain.tools import DuckDuckGoSearchRun
 import re
 import streamlit as st
 from langchain.vectorstores import vectara
+from langchain
 
 search = DuckDuckGoSearchRun()
 
@@ -19,13 +20,13 @@ def duck_search(query):
     except :
         return ""
     
-csv_agent = create_csv_agent(
-    ChatOpenAI(temperature=0, model="gpt-4", openai_api_key=st.secrets["openai_key"]),
-    "Final.csv",
-    verbose=True,
-    agent_type=AgentType.OPENAI_FUNCTIONS,
-    handle_parsing_errors=True,
-)
+# csv_agent = create_csv_agent(
+#     ChatOpenAI(temperature=0, model="gpt-4", openai_api_key=st.secrets["openai_key"]),
+#     "Final.csv",
+#     verbose=True,
+#     agent_type=AgentType.OPENAI_FUNCTIONS,
+#     handle_parsing_errors=True,
+# )
 
 
 # df = pd.read_csv(r"bank_transactions_sorted_2023.csv")
