@@ -2,8 +2,6 @@ from langchain.tools import DuckDuckGoSearchRun
 import re
 import streamlit as st
 from langchain.vectorstores import vectara
-from langchain
-
 search = DuckDuckGoSearchRun()
 
 def duck_search(query):
