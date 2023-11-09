@@ -210,7 +210,7 @@ tools = [
 llm = ChatOpenAI(
         openai_api_key=st.secrets["openai_key"],
         temperature=0,
-        model_name='gpt-4',
+        model_name='gpt-3.5-turbo-16k',
         # streaming=True
 )
 
