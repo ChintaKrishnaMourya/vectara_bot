@@ -9,34 +9,6 @@ from sib_agent import agent
 from langchain.callbacks import StreamlitCallbackHandler
 from utils import enable_chat_history, display_msg
 
-# Initialize the behaviour analysis object
-# Make sure that Financial_BehaviourAnalysis has a __call__ method if you want to use it as behaviour(query, context)
-
-# # Streamlit interface
-# st.title("SIB Mate")
-# st.caption(':blue_heart: Your Personalised Banking Assistant')  # Corrected the syntax for emoji
-
-# # Text input
-# query = st.text_input("Ask your Query")
-
-# # File uploader for CSV files
-# uploaded_csv = st.file_uploader("Upload your balance sheet (csv):", type=["csv"])
-
-# # Button to process the query
-# if st.button("Ask SIB Mate"):
-#     if uploaded_csv is not None:
-#         # Read the uploaded CSV file into a DataFrame
-#         df = pd.read_csv(uploaded_csv)
-#         last_50 = df.tail(50)  # Extract the last 50 rows
-
-#         # Convert the last 50 rows to a string representation
-#         query = last_50.to_string(index=False, header=False) +query
-#         results = behaviour(query)  # Make sure behaviour can be called like this
-#         st.write(results)
-#     else:
-#         # Directly call the agent's run function with the query
-#         results = agent.run(input=query)
-#         st.write(results)
 
 
 ###############################################################################################
