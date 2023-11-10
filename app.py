@@ -32,18 +32,18 @@ def main():
             # Convert the last 50 rows to a string representation
                 query = user_query + '\n'+ last_50.to_string(index=False, header=False)
             # Make sure behaviour can be called like this
-                with st.chat_message("SIB Mate"):
+                with st.chat_message("Vectara Mate"):
                     st_cb = StreamlitCallbackHandler(st.container())
                     response = agent.run(query,callbacks=[st_cb])
-                    st.session_state.messages.append({"role": "SIBMate", "content": response})
+                    st.session_state.messages.append({"role": "VectaraMate", "content": response})
                     st.write(response)
 
             else:
                 display_msg(user_query, 'user')
-                with st.chat_message("SIB Mate"):
+                with st.chat_message("Vectara Mate"):
                     st_cb = StreamlitCallbackHandler(st.container())
                     response = agent.run(user_query, callbacks=[st_cb])
-                    st.session_state.messages.append({"role": "SIBMate", "content": response})
+                    st.session_state.messages.append({"role": "VectaraMate", "content": response})
                     st.write(response)
 
 
